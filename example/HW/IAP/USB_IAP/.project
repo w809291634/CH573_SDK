@@ -35,12 +35,12 @@
     <link>
       <name>StdPeriphDriver</name>
       <type>2</type>
-      <location>PARENT-2-PROJECT_LOC/SRC/StdPeriphDriver</location>
+      <location>PARENT-4-PROJECT_LOC/SRC/StdPeriphDriver</location>
     </link>
     <link>
       <name>RVMSIS</name>
       <type>2</type>
-      <location>PARENT-2-PROJECT_LOC/SRC/RVMSIS</location>
+      <location>PARENT-4-PROJECT_LOC/SRC/RVMSIS</location>
     </link>
   </linkedResources>
 </projectDescription>
