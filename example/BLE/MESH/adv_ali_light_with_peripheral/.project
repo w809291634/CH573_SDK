@@ -37,7 +37,7 @@
 		<link>
 			<name>Ld</name>
 			<type>2</type>
-			<locationURI>PARENT-3-PROJECT_LOC/SRC/Ld</locationURI>
+			<locationURI>PARENT-4-PROJECT_LOC/SRC/Ld</locationURI>
 		</link>
 		<link>
 			<name>MESH_LIB</name>
@@ -47,17 +47,17 @@
 		<link>
 			<name>RVMSIS</name>
 			<type>2</type>
-			<locationURI>PARENT-3-PROJECT_LOC/SRC/RVMSIS</locationURI>
+			<locationURI>PARENT-4-PROJECT_LOC/SRC/RVMSIS</locationURI>
 		</link>
 		<link>
 			<name>Startup</name>
 			<type>2</type>
-			<locationURI>PARENT-3-PROJECT_LOC/SRC/Startup</locationURI>
+			<locationURI>PARENT-4-PROJECT_LOC/SRC/Startup</locationURI>
 		</link>
 		<link>
 			<name>StdPeriphDriver</name>
 			<type>2</type>
-			<locationURI>PARENT-3-PROJECT_LOC/SRC/StdPeriphDriver</locationURI>
+			<locationURI>PARENT-4-PROJECT_LOC/SRC/StdPeriphDriver</locationURI>
 		</link>
 	</linkedResources>
 	<filteredResources>
